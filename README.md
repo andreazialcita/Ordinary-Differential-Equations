@@ -1,4 +1,4 @@
-<h1>C</h1>
+<h1>Ordinary Differential Equations</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
