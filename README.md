@@ -19,7 +19,7 @@ As part of the project, we worked through the derivation of the system of ODEs u
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Results:</h2>
+<h2>Sample Results:</h2>
 
 <p align="center">
 Launch the utility: <br/>
