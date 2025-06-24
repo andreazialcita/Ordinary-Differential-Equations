@@ -23,7 +23,7 @@ As part of the project, we worked through the derivation of the system of ODEs u
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.40.50%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
