@@ -26,19 +26,19 @@ As part of the project, we worked through the derivation of the system of ODEs u
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.40.50%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.40.50%20PM.png" height="80%" width="80%" alt="Two-dimensional Phase Portrait"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.09%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.09%20PM.png" height="80%" width="80%" alt="Two-dimensional Phase Portrait"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.34%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.34%20PM.png" height="80%" width="80%" alt="Three-dimensional Phase Portrait"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.51%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.51%20PM.png" height="80%" width="80%" alt="Results of Numerical Methods"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
