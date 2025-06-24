@@ -21,8 +21,8 @@ As part of the project, we worked through the derivation of the system of ODEs u
 - <b>NumPy</b>
 - <b>Matplotlib</b>
 
-<h2>Sample Results:</h2>
-Taken from our presentation.
+<h2>Sample Results</h2>
+<i>Taken from our presentation</i>
 
 <p align="center">
 Launch the utility: <br/>
