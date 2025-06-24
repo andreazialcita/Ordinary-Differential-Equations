@@ -10,7 +10,6 @@ As part of the project, we worked through the derivation of the system of ODEs u
 
 <br />
 
-
 <h2>Languages and Softwares Used</h2>
 
 - <b>Python</b>: For generating phase portraits
