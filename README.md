@@ -13,8 +13,8 @@ As part of the project, we worked through the derivation of the system of ODEs u
 
 <h2>Languages and Softwares Used</h2>
 
-- <b>Python</b>
-- <b>Scilab</b>
+- <b>Python</b>: For generating phase portraits
+- <b>Scilab</b>: For numerical methods
 
 <h2>Libraries Used </h2>
 
