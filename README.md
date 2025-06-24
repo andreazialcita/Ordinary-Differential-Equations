@@ -30,7 +30,7 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png](https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.09%20PM.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.09%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
