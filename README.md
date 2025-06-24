@@ -7,8 +7,6 @@ This is a group project completed for our junior-year mathematics course on Ordi
 
 As part of the project, we worked through the derivation of the system of ODEs used in the study, identifying the biological assumptions behind each term and equation. We then generated two-dimensional phase portraits to further analyze the dynamics of the system and the conditions underlying its conclusions, as well as three-dimensional phase portraits to visualize and confirm the study’s findings on effective anti-tumor drug dosing. We also used numerical methods (specifically Euler's method, Heun's method, and the Runge-Kutta 4 method) to approximate the solutions to the ODEs over time.  
 
-<br />
-
 <h2>Documents</h2>
 
 - [Codes](https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/%5BMATH_72_1%5D_ODE_Phase_Portraits.ipynb)
