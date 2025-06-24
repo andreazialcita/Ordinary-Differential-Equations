@@ -1,6 +1,7 @@
 <h1>Ordinary Differential Equations</h1>
 
 <h2>Description</h2>
+
 This is a group project completed for our junior-year mathematics course on Ordinary Differential Equations (ODEs). We were tasked with analyzing or extending an existing study that applied ODEs. For our project, we focused on the paper by Yuyang Xiao et al., titled <a href="https://pubmed.ncbi.nlm.nih.gov/35341290/"><i>Mathematical Modeling and Dynamical Analysis of Anti-Tumor Drug Dose-Response</i></a>. The study aims to determine optimal drug dosage for tumor treatment in the human body, taking into account the phenomenon of hormesis—a dose-response relationship where low doses of a drug may stimulate tumor growth, while higher doses inhibit it.
 
 
@@ -13,14 +14,12 @@ As part of the project, we worked through the derivation of the system of ODEs u
 <h2>Languages and Softwares Used</h2>
 
 - <b>Python</b>
-- Scilab
+- <b>Scilab</b>
 
 <h2>Libraries Used </h2>
 
-- NumPy
-- Matplotlib
-
-- <b>Windows 10</b> (21H2)
+- <b>NumPy</b>
+- <b>Matplotlib</b>
 
 <h2>Sample Results:</h2>
 Taken from our presentation.
