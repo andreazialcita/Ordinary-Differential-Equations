@@ -34,7 +34,7 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/andreazialcita/Ordinary-Differential-Equations/blob/main/Screen%20Shot%202025-06-24%20at%202.41.34%20PM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
